@@ -1,0 +1,19 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "LandGasterId",
+        "version": "0",
+        "libraryId": "1CEb_7m3qP0ygig5SuuuO95j72N5d4s6ZjrSCzYhH85gZTjCJc89TgYVI",
+        "developmentMode": true
+      }
+    ]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
